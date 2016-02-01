@@ -5,6 +5,10 @@ can you get this to github?
 from my computer
 
 
+Here's my bug fix
+
+
 Here's my new feature
 
 I'm gonna finish this now
+
